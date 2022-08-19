@@ -1,2 +1,2 @@
 # Typing-Test
-Test Your Typing test.
+Test Your Typing speed.
